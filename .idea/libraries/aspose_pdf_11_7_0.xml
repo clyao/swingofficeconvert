@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="aspose.pdf-11.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/aspose.pdf-11.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aspose-words-16.8.0-jdk16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/beautyeye_lnf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
